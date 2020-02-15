@@ -1,4 +1,4 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
 Primeiro aplicativo do curso de Criação de Apps Android e iOS com Flutter
 
